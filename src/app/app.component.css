@@ -1,0 +1,12 @@
+:ng-deep  .td-table-wrapper {
+    max-height: calc(100vh - 335px)!important;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #f49322;
+    border-color: #f98907;
+}
+.custom-file-label::after {
+    color: #ffffff;
+    background-color: #605f60;
+}

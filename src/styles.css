@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+@import '@angular/material/prebuilt-themes/indigo-pink.css';
+@import url('https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900&display=swap');
+.img
+{
+    width: 100px;
+}
+body {
+    background-color: #f0f0f0;
+    font-family: 'Rubik', sans-serif!important;
+    }
